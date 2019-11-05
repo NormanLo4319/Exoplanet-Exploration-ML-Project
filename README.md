@@ -8,7 +8,7 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 
 To help process this data, we will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
 
-In this homework assignment, we will need to:
+In this project, we will need to:
 
 1. [Preprocess the raw data](#Preprocessing)
 2. [Tune the models](#Tune-Model-Parameters)
