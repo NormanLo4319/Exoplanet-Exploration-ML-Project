@@ -54,3 +54,7 @@ Compare the performance of two or more classifiers to determine the best model p
 
 * Try a simple model first, and then tune the model using `GridSearch`.
 
+## Acknowledgements
+
+* This dataset was published as-is by NASA. 
+
