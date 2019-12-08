@@ -44,10 +44,10 @@ Compare the performance of two or more classifiers to determine the best model p
 
 ### Compare Results
 
-Decision Tree: Accuracy Rate = 81%
-K Nearest Neighbors (KNN): Accuracy Rate = 75%
-Logistic Regression: Accuracy Rate = 52%
-Support Vector Machine (SVM): Accuracy Rate = 62%
+- Decision Tree: Accuracy Rate = 81%
+- K Nearest Neighbors (KNN): Accuracy Rate = 75%
+- Logistic Regression: Accuracy Rate = 52%
+- Support Vector Machine (SVM): Accuracy Rate = 62%
 
 - - -
 
