@@ -14,6 +14,9 @@ In this project, we will need to:
 2. [Tune the models](#Tune-Model-Parameters)
 3. [Compare two or more models](#Evaluate-Model-Performance)
 
+### Pair Plot
+![Pair Plot](images/pairplot.png)
+
 - - -
 
 ## Instructions
@@ -33,6 +36,21 @@ In this project, we will need to:
 ### Evaluate Model Performance
 
 Compare the performance of two or more classifiers to determine the best model performance.
+
+1. Decision Tree
+2. K Nearest Neighbors
+3. Logistic Regression
+4. Support Vector Machine
+
+### Results
+---
+Decision Tree: Accuracy Rate = 81%
+
+K Nearest Neighbors (KNN): Accuracy Rate = 75%
+
+Logistic Regression: Accuracy Rate = 52%
+
+Support Vector Machine (SVM): Accuracy Rate = 62%
 
 - - -
 
