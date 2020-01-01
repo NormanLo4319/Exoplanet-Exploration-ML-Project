@@ -54,11 +54,8 @@ Compare the performance of two or more classifiers to determine the best model p
 ## Resources
 
 * [Exoplanet Data Source](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
-
 * [Scikit-Learn Tutorial Part 1](https://www.youtube.com/watch?v=4PXAztQtoTg)
-
 * [Scikit-Learn Tutorial Part 2](https://www.youtube.com/watch?v=gK43gtGh49o&t=5858s)
-
 * [Grid Search](https://scikit-learn.org/stable/modules/grid_search.html)
 
 - - -
@@ -66,10 +63,8 @@ Compare the performance of two or more classifiers to determine the best model p
 ## Notes
 
 * Start by cleaning the data, removing unnecessary columns, and scaling the data.
-
 * Try a simple model first, and then tune the model using `GridSearch`.
 
 ## Acknowledgements
 
 * This dataset was published as-is by NASA. 
-
